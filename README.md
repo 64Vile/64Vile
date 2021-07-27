@@ -1,3 +1,3 @@
-- 👋 Am Vile
-- 👀 2nd acc
-- 🌱 Web development (frontend)
+-  Am Vile
+-  2nd acc
+-  Web development (frontend)
